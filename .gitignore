@@ -1,0 +1,7 @@
+/.buildpath
+/.project
+.settings/org.eclipse.ldt.prefs
+
+credential.*
+//*.lc
+//update_files.json

@@ -1,0 +1,13 @@
+{
+	"mode": "surface",
+    "wifi": "nil",
+    "mqtt": {
+        "broker": "192.168.137.1"
+    },
+    "trace": {
+        "ip": "192.168.137.1"
+    },
+    "timer": {
+        "_periodicPeriod": 20000
+    }
+}

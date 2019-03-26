@@ -1,0 +1,11 @@
+{
+    "chipid": 234405065139875,
+    "app": "tftNode",
+    "class": "display",
+    "type": "tft",
+    "location": "test",
+    "appCfg": {
+    },
+    "timer": {
+    }
+}
